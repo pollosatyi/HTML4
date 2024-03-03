@@ -1,0 +1,106 @@
+body {
+    background-color: rgb(245, 245, 245);
+}
+
+.h1 {
+    background-color: blue;
+}
+
+.height_90 {
+    height: 90vh;
+}
+
+.width_90 {
+    width: 90vw;
+}
+
+.height_20 {
+    height: 20vh;
+}
+
+.margin_5 {
+    margin: 5vh 5vw;
+}
+
+.display_flex {
+    display: flex;
+}
+
+.flex {
+    flex: 100%;
+}
+
+.flex_direction_row {
+    flex-direction: row;
+}
+
+.justify_content {
+    justify-content: center;
+}
+
+.aling-items {
+    align-items: center;
+}
+
+.margin_0 {
+    margin: 0px;
+}
+
+.padding_0 {
+    padding: 0px;
+}
+
+.position_relative {
+    position: relative;
+}
+
+.position_absolute {
+    position: absolute;
+}
+
+.background_color {
+    background-color: #872d62;
+}
+
+.top {
+    top: 90vh;
+}
+
+.bottom {
+    bottom: 95vh;
+}
+
+.z_index_2 {
+    z-index: 2;
+}
+
+.z_index_3 {
+    z-index: 3;
+}
+
+.z_index_1 {
+    z-index: 1;
+}
+
+.height_100 {
+    height: 100%;
+}
+
+.width_50 {
+    width: 50%;
+}
+
+.border {
+    border: #651142 solid 1vh;
+}
+
+.block {
+    float: left;
+}
+
+.block:hover {
+    transform-origin: 0% 50% 10px;
+    transform: rotate(10deg);
+
+    transition: all 0.3s ease-in 0s;
+}
